@@ -1,0 +1,13 @@
+files:
+  - source: /
+    ignore:
+      - /nl/
+      - /.glitch-assets
+      - LICENSE
+      - NotoColorEmoji-Regular.ttf
+      - script.js
+      - style.css
+      - TODO.md
+      - README.md
+      - /stuff/stuff
+    translation: /%two_letters_code%/%original_path%/%original_file_name%
