@@ -10,4 +10,5 @@ files:
       - TODO.md
       - README.md
       - /stuff/stuff
+      - /pt
     translation: /%two_letters_code%/%original_path%/%original_file_name%
